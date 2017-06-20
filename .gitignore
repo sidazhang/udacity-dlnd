@@ -20,3 +20,7 @@ image-classification/preprocess_batch_4.p
 image-classification/preprocess_batch_5.p
 image-classification/preprocess_test.p
 image-classification/preprocess_validation.p
+image-classification/checkpoint
+image-classification/image_classification.data-00000-of-00001
+image-classification/image_classification.index
+image-classification/image_classification.meta
